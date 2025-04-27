@@ -1,0 +1,4 @@
+SELECT *
+FROM customers
+WHERE points BETWEEN 100 AND 200;
+
